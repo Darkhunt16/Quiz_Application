@@ -1,0 +1,141 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Which of the following Presidents of the United States was assassinated?",
+      "correct_answer": "William McKinley",
+      "incorrect_answers": [
+        "Lyndon Johnson",
+        "Chester Arthur",
+        "Franklin Roosevelt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What is the name of the device that allows for infinite energy in the anime &quot;Dimension W&quot;?",
+      "correct_answer": "Coils",
+      "incorrect_answers": ["Wires", "Collectors", "Tesla"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Korean girl group TWICE is under which Entertainment Label?",
+      "correct_answer": "JYP",
+      "incorrect_answers": ["MBK", "YG", "Stone Music"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+      "correct_answer": "The Artful Dodger",
+      "incorrect_answers": ["Fagin", "Bull&rsquo;s-eye", "Mr. Fang"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "What is the main ship used by Commander Shepard in the Mass Effect Franchise called?",
+      "correct_answer": "Normandy",
+      "incorrect_answers": ["Osiris", "Infinity", "Endeavour"]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In &quot;Star Trek&quot;, Klingons are aliens.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "In addition to his career as an astrologer and &quot;prophet&quot;, Nostradamus published a 1555 treatise that included a section on what?",
+      "correct_answer": "Making jams and jellies",
+      "incorrect_answers": [
+        "Teaching parrots to talk",
+        "Cheating at card games",
+        "Digging graves"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+      "correct_answer": "1969",
+      "incorrect_answers": ["1965", "1966", "1973"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Video Games",
+      "question": "In which game does a character say, &quot;Sometimes, I dream about cheese&quot;?",
+      "correct_answer": "Half Life 2",
+      "incorrect_answers": [
+        "Team Fortress 2",
+        "Dark Souls",
+        "Serious Sam: The Second Encounter"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+      "correct_answer": "A Clash of Kings",
+      "incorrect_answers": [
+        "A Dance with Dragons",
+        "A Storm of Swords",
+        "A Feast for Crows"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",
+      "correct_answer": "Sonic &amp; Knuckles",
+      "incorrect_answers": ["Sonic 2", "Sonic CD", "Sonic 3D Blast"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+      "correct_answer": "Kaliningrad",
+      "incorrect_answers": ["Kazan", "Kursk", "Krasnodar"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Mythology",
+      "question": "What is the name of the Greek god of blacksmiths?",
+      "correct_answer": "Hephaestus",
+      "incorrect_answers": ["Dyntos", "Vulcan", "Artagatus"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does the &quot;MP&quot; stand for in MP3?",
+      "correct_answer": "Moving Picture",
+      "incorrect_answers": ["Music Player", "Multi Pass", "Micro Point"]
+    }
+  ]
+}
