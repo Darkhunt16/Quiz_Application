@@ -47,4 +47,4 @@ A fully functional and interactive quiz application built with **React**, featur
    npm start
 
 # Live demo :rocket:
-https://hospital-management-frontend0209.vercel.app/
+https://quiz-application-chi-dun.vercel.app/
