@@ -36,7 +36,7 @@ A fully functional and interactive quiz application built with **React**, featur
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Darkhunt16/Quiz_Application.git
-   cd react-quiz-app
+   cd Quiz_Application
 
 2. **Install dependencies**
    ```bash
@@ -45,3 +45,6 @@ A fully functional and interactive quiz application built with **React**, featur
 3. **Run locally**
    ```bash
    npm start
+
+# Live demo :rocket:
+https://hospital-management-frontend0209.vercel.app/
